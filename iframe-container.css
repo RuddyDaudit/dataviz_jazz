@@ -1,0 +1,8 @@
+.iframe-container {
+  text-align: center;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
