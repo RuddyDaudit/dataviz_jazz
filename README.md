@@ -2,9 +2,15 @@
 
 
 
-Views : http://127.0.0.1:5502/index.html
+
+
+
+
+
+Index : https://adrabalde.github.io/dataviz_jazz/
+
 
 Other Views : http://127.0.0.1:5502/vue.html
 
-http://127.0.0.1:5502/vue_other.html
+Other Views: http://127.0.0.1:5502/vue_other.html
 
